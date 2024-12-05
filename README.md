@@ -1,6 +1,6 @@
 # Responsive React Calculator
 
-![Responsive React Calculator](./public/Screenshot 2024-12-05 175324.png)
+![Responsive React Calculator](./public/Screenshot%202024-12-05%20175324.png)
 
 A sleek and responsive calculator app built using React. Perfect for performing basic arithmetic operations on any device, from desktops to mobile phones.
 
@@ -19,3 +19,4 @@ Clone the repository and install the dependencies:
 git clone https://github.com/your-username/responsive-react-calculator.git
 cd responsive-react-calculator
 npm install
+```
