@@ -1,5 +1,7 @@
 # Responsive React Calculator
 
+![Responsive React Calculator](./calculator\public\Screenshot 2024-12-05 175324.png)
+
 A sleek and responsive calculator app built using React. Perfect for performing basic arithmetic operations on any device, from desktops to mobile phones.
 
 ## Features
