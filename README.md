@@ -16,7 +16,7 @@ A sleek and responsive calculator app built using React. Perfect for performing 
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/responsive-react-calculator.git
-cd responsive-react-calculator
+https://github.com/Angadkumar07/Mordern-Calculator.git
+cd Mordern-Calculator
 npm install
 ```
